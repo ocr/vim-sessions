@@ -10,6 +10,18 @@ Re-opening tabs over and over again is just too tedious. Other vim plug-ins are
 doing similar things now, but I've had this solution running for a long time and
 I just published it here to make it easier to install with Vundle.
 
+## Installation
+Using [Vundle](https://github.com/gmarik/vundle)
+
+```
+Bundle 'ocr/vim-sessions'
+```
+
+Then start vim and call BundleInstall:
+```
+:BundleInstall
+```
+
 ## The how
 ### Create a session
 ```
